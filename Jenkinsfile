@@ -5,4 +5,4 @@ env.COMPONENT = "dispatch"
 env.BUILD_LABEL = "WORKSTATION"
 
 // Library Groovy file
-golang()
+immutable_golang()
